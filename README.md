@@ -1,6 +1,6 @@
 # WordFlow Bot
 
-Introducing the WordFlow Bot — a script designed to automate gameplay for the online word game at [mewtru.com/wordflow](http://mewtru.com/wordflow). This script intelligently submits valid words based on the letters available in the game, streamlining the experience.
+Introducing the WordFlow Bot — a script designed by me to automate gameplay for the online word game developed by [@mewtru](https://www.instagram.com/mewtru). This script intelligently submits valid words based on the letters available in the game, streamlining the experience.
 
 > **Note:** This script is created out of curiosity and may reduce the fun and challenge of the game. For a more authentic experience, consider playing without it. However, feel free to try it out and see how it works!
 
